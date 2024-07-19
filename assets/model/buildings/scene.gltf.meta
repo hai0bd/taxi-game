@@ -1,0 +1,3823 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc",
+  "files": [],
+  "subMetas": {
+    "10486": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@10486",
+      "displayName": "",
+      "id": "10486",
+      "name": "UnnamedTexture-16.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_08_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "14738": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@14738",
+      "displayName": "",
+      "id": "14738",
+      "name": "UnnamedTexture-20.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_10_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "15922": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@15922",
+      "displayName": "",
+      "id": "15922",
+      "name": "Building_Shops_06_0.mesh",
+      "userData": {
+        "gltfIndex": 16,
+        "triangleCount": 18
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "45283": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@45283",
+      "displayName": "",
+      "id": "45283",
+      "name": "Building_07_Shops_25_0.mesh",
+      "userData": {
+        "gltfIndex": 55,
+        "triangleCount": 22
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "47078": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@47078",
+      "displayName": "",
+      "id": "47078",
+      "name": "Building_05_Shops_20_0.mesh",
+      "userData": {
+        "gltfIndex": 47,
+        "triangleCount": 22
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "47929": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@47929",
+      "displayName": "",
+      "id": "47929",
+      "name": "building_04.material",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "50743": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@50743",
+      "displayName": "",
+      "id": "50743",
+      "name": "UnnamedTexture-5.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_specularf0.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "51278": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@51278",
+      "displayName": "",
+      "id": "51278",
+      "name": "UnnamedTexture-28.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_17_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "55257": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@55257",
+      "displayName": "",
+      "id": "55257",
+      "name": "UnnamedTexture-12.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/brick_modern_04_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "67107": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@67107",
+      "displayName": "",
+      "id": "67107",
+      "name": "Building_03_Shops_02_0.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 36
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "69421": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@69421",
+      "displayName": "",
+      "id": "69421",
+      "name": "Shops_02.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "70137": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@70137",
+      "displayName": "",
+      "id": "70137",
+      "name": "building_06.material",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72311": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@72311",
+      "displayName": "",
+      "id": "72311",
+      "name": "UnnamedTexture-29.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/building_10_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "77780": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@77780",
+      "displayName": "",
+      "id": "77780",
+      "name": "Building_01_brick_modern_03_0.mesh",
+      "userData": {
+        "gltfIndex": 7,
+        "triangleCount": 30
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "85453": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@85453",
+      "displayName": "",
+      "id": "85453",
+      "name": "Building_07_building_0.mesh",
+      "userData": {
+        "gltfIndex": 52,
+        "triangleCount": 20
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "89143": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@89143",
+      "displayName": "",
+      "id": "89143",
+      "name": "Building_07_ConcreteBare_0.mesh",
+      "userData": {
+        "gltfIndex": 56,
+        "triangleCount": 80
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "90058": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@90058",
+      "displayName": "",
+      "id": "90058",
+      "name": "Building_05_Shops_19_0.mesh",
+      "userData": {
+        "gltfIndex": 45,
+        "triangleCount": 28
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "90288": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@90288",
+      "displayName": "",
+      "id": "90288",
+      "name": "UnnamedTexture-40.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_22_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "97793": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@97793",
+      "displayName": "",
+      "id": "97793",
+      "name": "Building_01_Shops_05_0.mesh",
+      "userData": {
+        "gltfIndex": 11,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "98962": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@98962",
+      "displayName": "",
+      "id": "98962",
+      "name": "UnnamedTexture-19.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/building_08_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0b47b": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@0b47b",
+      "displayName": "",
+      "id": "0b47b",
+      "name": "Building_03_ConcreteBare_0.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 80
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c2e2a": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@c2e2a",
+      "displayName": "",
+      "id": "c2e2a",
+      "name": "Building_03_brick_modern_03_0.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 60
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "511cb": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@511cb",
+      "displayName": "",
+      "id": "511cb",
+      "name": "Building_03_Shops_01_0.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 34
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fcb19": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@fcb19",
+      "displayName": "",
+      "id": "fcb19",
+      "name": "Building_03_Shops_0.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 30
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8739b": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@8739b",
+      "displayName": "",
+      "id": "8739b",
+      "name": "Building_03_building_09_0.mesh",
+      "userData": {
+        "gltfIndex": 5,
+        "triangleCount": 8
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f2a3e": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@f2a3e",
+      "displayName": "",
+      "id": "f2a3e",
+      "name": "Building_03_Roof_tiles_0.mesh",
+      "userData": {
+        "gltfIndex": 6,
+        "triangleCount": 8
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "90c66": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@90c66",
+      "displayName": "",
+      "id": "90c66",
+      "name": "Building_01_building_04_0.mesh",
+      "userData": {
+        "gltfIndex": 8,
+        "triangleCount": 16
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "39f1e": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@39f1e",
+      "displayName": "",
+      "id": "39f1e",
+      "name": "Building_01_Shops_03_0.mesh",
+      "userData": {
+        "gltfIndex": 9,
+        "triangleCount": 6
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ecb94": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@ecb94",
+      "displayName": "",
+      "id": "ecb94",
+      "name": "Building_01_Shops_04_0.mesh",
+      "userData": {
+        "gltfIndex": 10,
+        "triangleCount": 28
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "79aa2": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@79aa2",
+      "displayName": "",
+      "id": "79aa2",
+      "name": "Building_01_ConcreteBare_0.mesh",
+      "userData": {
+        "gltfIndex": 12,
+        "triangleCount": 64
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39be": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@e39be",
+      "displayName": "",
+      "id": "e39be",
+      "name": "Building_01_Roof_tiles_0.mesh",
+      "userData": {
+        "gltfIndex": 13,
+        "triangleCount": 6
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0b1f5": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@0b1f5",
+      "displayName": "",
+      "id": "0b1f5",
+      "name": "Building_brick_modern_04_0.mesh",
+      "userData": {
+        "gltfIndex": 14,
+        "triangleCount": 48
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ebcfd": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@ebcfd",
+      "displayName": "",
+      "id": "ebcfd",
+      "name": "Building_building_06_0.mesh",
+      "userData": {
+        "gltfIndex": 15,
+        "triangleCount": 14
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d37c8": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@d37c8",
+      "displayName": "",
+      "id": "d37c8",
+      "name": "Building_Shops_09_0.mesh",
+      "userData": {
+        "gltfIndex": 17,
+        "triangleCount": 18
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4d508": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@4d508",
+      "displayName": "",
+      "id": "4d508",
+      "name": "Building_Shops_08_0.mesh",
+      "userData": {
+        "gltfIndex": 18,
+        "triangleCount": 6
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c43dc": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@c43dc",
+      "displayName": "",
+      "id": "c43dc",
+      "name": "Building_ConcreteBare_0.mesh",
+      "userData": {
+        "gltfIndex": 19,
+        "triangleCount": 80
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d156": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@9d156",
+      "displayName": "",
+      "id": "9d156",
+      "name": "Building_Roof_tiles_0.mesh",
+      "userData": {
+        "gltfIndex": 20,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9362": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@f9362",
+      "displayName": "",
+      "id": "f9362",
+      "name": "Building_02_brick_modern_02_0.mesh",
+      "userData": {
+        "gltfIndex": 21,
+        "triangleCount": 144
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a57c7": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@a57c7",
+      "displayName": "",
+      "id": "a57c7",
+      "name": "Building_02_Shops_11_0.mesh",
+      "userData": {
+        "gltfIndex": 22,
+        "triangleCount": 40
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "69bba": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@69bba",
+      "displayName": "",
+      "id": "69bba",
+      "name": "Building_02_building_08_0.mesh",
+      "userData": {
+        "gltfIndex": 23,
+        "triangleCount": 44
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eb610": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@eb610",
+      "displayName": "",
+      "id": "eb610",
+      "name": "Building_02_Shops_10_0.mesh",
+      "userData": {
+        "gltfIndex": 24,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8da60": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@8da60",
+      "displayName": "",
+      "id": "8da60",
+      "name": "Building_02_Shops_12_0.mesh",
+      "userData": {
+        "gltfIndex": 25,
+        "triangleCount": 64
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d0588": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@d0588",
+      "displayName": "",
+      "id": "d0588",
+      "name": "Building_02_Shops_14_0.mesh",
+      "userData": {
+        "gltfIndex": 26,
+        "triangleCount": 50
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d141b": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@d141b",
+      "displayName": "",
+      "id": "d141b",
+      "name": "Building_02_ConcreteBare_0.mesh",
+      "userData": {
+        "gltfIndex": 27,
+        "triangleCount": 160
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7bb02": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@7bb02",
+      "displayName": "",
+      "id": "7bb02",
+      "name": "Building_02_Roof_tiles_0.mesh",
+      "userData": {
+        "gltfIndex": 28,
+        "triangleCount": 18
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "12d2b": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@12d2b",
+      "displayName": "",
+      "id": "12d2b",
+      "name": "Building_02_Shops_13_0.mesh",
+      "userData": {
+        "gltfIndex": 29,
+        "triangleCount": 14
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "32a80": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@32a80",
+      "displayName": "",
+      "id": "32a80",
+      "name": "Building_04_brick_modern_03_0.mesh",
+      "userData": {
+        "gltfIndex": 30,
+        "triangleCount": 30
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "828cf": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@828cf",
+      "displayName": "",
+      "id": "828cf",
+      "name": "Building_04_Shops_16_0.mesh",
+      "userData": {
+        "gltfIndex": 31,
+        "triangleCount": 28
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b7387": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@b7387",
+      "displayName": "",
+      "id": "b7387",
+      "name": "Building_04_building_01_0.mesh",
+      "userData": {
+        "gltfIndex": 32,
+        "triangleCount": 18
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e1f7": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@9e1f7",
+      "displayName": "",
+      "id": "9e1f7",
+      "name": "Building_04_Shops_15_0.mesh",
+      "userData": {
+        "gltfIndex": 33,
+        "triangleCount": 6
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d9bb3": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@d9bb3",
+      "displayName": "",
+      "id": "d9bb3",
+      "name": "Building_04_Shops_17_0.mesh",
+      "userData": {
+        "gltfIndex": 34,
+        "triangleCount": 10
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6e599": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@6e599",
+      "displayName": "",
+      "id": "6e599",
+      "name": "Building_04_ConcreteBare_0.mesh",
+      "userData": {
+        "gltfIndex": 35,
+        "triangleCount": 64
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "84afc": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@84afc",
+      "displayName": "",
+      "id": "84afc",
+      "name": "Building_04_Roof_tiles_0.mesh",
+      "userData": {
+        "gltfIndex": 36,
+        "triangleCount": 6
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1d289": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@1d289",
+      "displayName": "",
+      "id": "1d289",
+      "name": "Building_09_building_10_0.mesh",
+      "userData": {
+        "gltfIndex": 37,
+        "triangleCount": 26
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "46e39": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@46e39",
+      "displayName": "",
+      "id": "46e39",
+      "name": "Building_09_brick_modern_0.mesh",
+      "userData": {
+        "gltfIndex": 38,
+        "triangleCount": 50
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f5472": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@f5472",
+      "displayName": "",
+      "id": "f5472",
+      "name": "Building_09_Shops_18_0.mesh",
+      "userData": {
+        "gltfIndex": 39,
+        "triangleCount": 36
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b8ae": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@9b8ae",
+      "displayName": "",
+      "id": "9b8ae",
+      "name": "Building_09_ConcreteBare_0.mesh",
+      "userData": {
+        "gltfIndex": 40,
+        "triangleCount": 88
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eb3b6": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@eb3b6",
+      "displayName": "",
+      "id": "eb3b6",
+      "name": "Building_09_Roof_tiles_0.mesh",
+      "userData": {
+        "gltfIndex": 41,
+        "triangleCount": 4
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "79cab": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@79cab",
+      "displayName": "",
+      "id": "79cab",
+      "name": "Building_09_Shops_07_0.mesh",
+      "userData": {
+        "gltfIndex": 42,
+        "triangleCount": 32
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "84d66": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@84d66",
+      "displayName": "",
+      "id": "84d66",
+      "name": "Building_05_brick_modern_01_0.mesh",
+      "userData": {
+        "gltfIndex": 43,
+        "triangleCount": 100
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cad94": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@cad94",
+      "displayName": "",
+      "id": "cad94",
+      "name": "Building_05_building_03_0.mesh",
+      "userData": {
+        "gltfIndex": 44,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d35bd": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@d35bd",
+      "displayName": "",
+      "id": "d35bd",
+      "name": "Building_05_Shops_21_0.mesh",
+      "userData": {
+        "gltfIndex": 46,
+        "triangleCount": 24
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cbede": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@cbede",
+      "displayName": "",
+      "id": "cbede",
+      "name": "Building_05_Shops_22_0.mesh",
+      "userData": {
+        "gltfIndex": 48,
+        "triangleCount": 22
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7e229": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@7e229",
+      "displayName": "",
+      "id": "7e229",
+      "name": "Building_05_ConcreteBare_0.mesh",
+      "userData": {
+        "gltfIndex": 49,
+        "triangleCount": 128
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2045": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@d2045",
+      "displayName": "",
+      "id": "d2045",
+      "name": "Building_05_Roof_tiles_0.mesh",
+      "userData": {
+        "gltfIndex": 50,
+        "triangleCount": 24
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "47a04": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@47a04",
+      "displayName": "",
+      "id": "47a04",
+      "name": "Building_07_brick_modern_05_0.mesh",
+      "userData": {
+        "gltfIndex": 51,
+        "triangleCount": 36
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "31c1d": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@31c1d",
+      "displayName": "",
+      "id": "31c1d",
+      "name": "Building_07_Shops_23_0.mesh",
+      "userData": {
+        "gltfIndex": 53,
+        "triangleCount": 34
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f35b1": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@f35b1",
+      "displayName": "",
+      "id": "f35b1",
+      "name": "Building_07_Shops_24_0.mesh",
+      "userData": {
+        "gltfIndex": 54,
+        "triangleCount": 20
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b1901": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@b1901",
+      "displayName": "",
+      "id": "b1901",
+      "name": "Building_07_Roof_tiles_0.mesh",
+      "userData": {
+        "gltfIndex": 57,
+        "triangleCount": 8
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "502cd": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@502cd",
+      "displayName": "",
+      "id": "502cd",
+      "name": "Building_08_BrickSmallPainted_0.mesh",
+      "userData": {
+        "gltfIndex": 58,
+        "triangleCount": 16
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "70cae": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@70cae",
+      "displayName": "",
+      "id": "70cae",
+      "name": "Building_08_Shops_26_0.mesh",
+      "userData": {
+        "gltfIndex": 59,
+        "triangleCount": 16
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e2d07": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@e2d07",
+      "displayName": "",
+      "id": "e2d07",
+      "name": "Building_08_Shops_27_0.mesh",
+      "userData": {
+        "gltfIndex": 60,
+        "triangleCount": 2
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6fb33": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@6fb33",
+      "displayName": "",
+      "id": "6fb33",
+      "name": "Building_08_ConcreteBare_0.mesh",
+      "userData": {
+        "gltfIndex": 61,
+        "triangleCount": 84
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0099c": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@0099c",
+      "displayName": "",
+      "id": "0099c",
+      "name": "Building_08_building_11_0.mesh",
+      "userData": {
+        "gltfIndex": 62,
+        "triangleCount": 4
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8fd7d": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@8fd7d",
+      "displayName": "",
+      "id": "8fd7d",
+      "name": "Building_08_Roof_tiles_0.mesh",
+      "userData": {
+        "gltfIndex": 63,
+        "triangleCount": 4
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "539c3": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@539c3",
+      "displayName": "",
+      "id": "539c3",
+      "name": "Building_06_BrickSmallBrown_0.mesh",
+      "userData": {
+        "gltfIndex": 64,
+        "triangleCount": 36
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f2416": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@f2416",
+      "displayName": "",
+      "id": "f2416",
+      "name": "Building_06_Shops_28_0.mesh",
+      "userData": {
+        "gltfIndex": 65,
+        "triangleCount": 22
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "101ef": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@101ef",
+      "displayName": "",
+      "id": "101ef",
+      "name": "Building_06_building_07_0.mesh",
+      "userData": {
+        "gltfIndex": 66,
+        "triangleCount": 20
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5c503": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@5c503",
+      "displayName": "",
+      "id": "5c503",
+      "name": "Building_06_Shops_29_0.mesh",
+      "userData": {
+        "gltfIndex": 67,
+        "triangleCount": 18
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "90f91": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@90f91",
+      "displayName": "",
+      "id": "90f91",
+      "name": "Building_06_ConcreteBare_0.mesh",
+      "userData": {
+        "gltfIndex": 68,
+        "triangleCount": 80
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e429e": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@e429e",
+      "displayName": "",
+      "id": "e429e",
+      "name": "Building_06_Shops_31_0.mesh",
+      "userData": {
+        "gltfIndex": 69,
+        "triangleCount": 14
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d169a": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@d169a",
+      "displayName": "",
+      "id": "d169a",
+      "name": "Building_06_Shops_30_0.mesh",
+      "userData": {
+        "gltfIndex": 70,
+        "triangleCount": 6
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b90e0": {
+      "importer": "gltf-mesh",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@b90e0",
+      "displayName": "",
+      "id": "b90e0",
+      "name": "Building_06_Roof_tiles_0.mesh",
+      "userData": {
+        "gltfIndex": 71,
+        "triangleCount": 8
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/ConcreteBare_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/brick_modern_03_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0089c": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@0089c",
+      "displayName": "",
+      "id": "0089c",
+      "name": "UnnamedTexture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_01_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b633": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@9b633",
+      "displayName": "",
+      "id": "9b633",
+      "name": "UnnamedTexture-3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_02_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b782": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@9b782",
+      "displayName": "",
+      "id": "9b782",
+      "name": "UnnamedTexture-4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "99ea5": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@99ea5",
+      "displayName": "",
+      "id": "99ea5",
+      "name": "UnnamedTexture-6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/building_09_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "006bd": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@006bd",
+      "displayName": "",
+      "id": "006bd",
+      "name": "UnnamedTexture-7.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Roof_tiles_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "531b0": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@531b0",
+      "displayName": "",
+      "id": "531b0",
+      "name": "UnnamedTexture-8.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/building_04_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9c3d2": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@9c3d2",
+      "displayName": "",
+      "id": "9c3d2",
+      "name": "UnnamedTexture-9.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_03_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f7e17": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@f7e17",
+      "displayName": "",
+      "id": "f7e17",
+      "name": "UnnamedTexture-10.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_04_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a2905": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@a2905",
+      "displayName": "",
+      "id": "a2905",
+      "name": "UnnamedTexture-11.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_05_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "809d9": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@809d9",
+      "displayName": "",
+      "id": "809d9",
+      "name": "UnnamedTexture-13.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/building_06_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4841": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@b4841",
+      "displayName": "",
+      "id": "b4841",
+      "name": "UnnamedTexture-14.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_06_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3c999": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@3c999",
+      "displayName": "",
+      "id": "3c999",
+      "name": "UnnamedTexture-15.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_09_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d4524": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@d4524",
+      "displayName": "",
+      "id": "d4524",
+      "name": "UnnamedTexture-17.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/brick_modern_02_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d932b": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@d932b",
+      "displayName": "",
+      "id": "d932b",
+      "name": "UnnamedTexture-18.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_11_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0c93e": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@0c93e",
+      "displayName": "",
+      "id": "0c93e",
+      "name": "UnnamedTexture-21.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_10_specularf0.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "50f7f": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@50f7f",
+      "displayName": "",
+      "id": "50f7f",
+      "name": "UnnamedTexture-22.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_12_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d0968": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@d0968",
+      "displayName": "",
+      "id": "d0968",
+      "name": "UnnamedTexture-23.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_14_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0dd94": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@0dd94",
+      "displayName": "",
+      "id": "0dd94",
+      "name": "UnnamedTexture-24.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_13_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bcb27": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@bcb27",
+      "displayName": "",
+      "id": "bcb27",
+      "name": "UnnamedTexture-25.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_16_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "240d8": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@240d8",
+      "displayName": "",
+      "id": "240d8",
+      "name": "UnnamedTexture-26.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/building_01_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2a87f": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@2a87f",
+      "displayName": "",
+      "id": "2a87f",
+      "name": "UnnamedTexture-27.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_15_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "96cab": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@96cab",
+      "displayName": "",
+      "id": "96cab",
+      "name": "UnnamedTexture-30.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/building_10_specularf0.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a2999": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@a2999",
+      "displayName": "",
+      "id": "a2999",
+      "name": "UnnamedTexture-31.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/brick_modern_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "067c6": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@067c6",
+      "displayName": "",
+      "id": "067c6",
+      "name": "UnnamedTexture-32.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_18_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b36a3": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@b36a3",
+      "displayName": "",
+      "id": "b36a3",
+      "name": "UnnamedTexture-33.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_07_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f319c": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@f319c",
+      "displayName": "",
+      "id": "f319c",
+      "name": "UnnamedTexture-34.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/brick_modern_01_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1d105": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@1d105",
+      "displayName": "",
+      "id": "1d105",
+      "name": "UnnamedTexture-35.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/building_03_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b719f": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@b719f",
+      "displayName": "",
+      "id": "b719f",
+      "name": "UnnamedTexture-36.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_19_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "404ea": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@404ea",
+      "displayName": "",
+      "id": "404ea",
+      "name": "UnnamedTexture-37.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_21_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "51c5c": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@51c5c",
+      "displayName": "",
+      "id": "51c5c",
+      "name": "UnnamedTexture-38.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_20_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c8890": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@c8890",
+      "displayName": "",
+      "id": "c8890",
+      "name": "UnnamedTexture-39.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_20_specularf0.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a4688": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@a4688",
+      "displayName": "",
+      "id": "a4688",
+      "name": "UnnamedTexture-41.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/brick_modern_05_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "101c7": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@101c7",
+      "displayName": "",
+      "id": "101c7",
+      "name": "UnnamedTexture-42.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/building_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3693d": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@3693d",
+      "displayName": "",
+      "id": "3693d",
+      "name": "UnnamedTexture-43.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_23_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bc876": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@bc876",
+      "displayName": "",
+      "id": "bc876",
+      "name": "UnnamedTexture-44.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_24_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "59be8": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@59be8",
+      "displayName": "",
+      "id": "59be8",
+      "name": "UnnamedTexture-45.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_25_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "01feb": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@01feb",
+      "displayName": "",
+      "id": "01feb",
+      "name": "UnnamedTexture-46.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/BrickSmallPainted_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2a682": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@2a682",
+      "displayName": "",
+      "id": "2a682",
+      "name": "UnnamedTexture-47.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_26_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73f47": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@73f47",
+      "displayName": "",
+      "id": "73f47",
+      "name": "UnnamedTexture-48.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_27_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d0a2": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@9d0a2",
+      "displayName": "",
+      "id": "9d0a2",
+      "name": "UnnamedTexture-49.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/building_11_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "78ea3": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@78ea3",
+      "displayName": "",
+      "id": "78ea3",
+      "name": "UnnamedTexture-50.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/BrickSmallBrown_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a4654": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@a4654",
+      "displayName": "",
+      "id": "a4654",
+      "name": "UnnamedTexture-51.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "nearest",
+        "magfilter": "nearest",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_28_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3d208": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@3d208",
+      "displayName": "",
+      "id": "3d208",
+      "name": "UnnamedTexture-52.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "nearest",
+        "magfilter": "nearest",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/building_07_baseColor.jpeg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4377": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@b4377",
+      "displayName": "",
+      "id": "b4377",
+      "name": "UnnamedTexture-53.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_29_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d048c": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@d048c",
+      "displayName": "",
+      "id": "d048c",
+      "name": "UnnamedTexture-54.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_31_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "883e1": {
+      "importer": "texture",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@883e1",
+      "displayName": "",
+      "id": "883e1",
+      "name": "UnnamedTexture-55.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/model/buildings/textures/Shops_30_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "39ebb": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@39ebb",
+      "displayName": "",
+      "id": "39ebb",
+      "name": "ConcreteBare.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f6232": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@f6232",
+      "displayName": "",
+      "id": "f6232",
+      "name": "brick_modern_03.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "347e8": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@347e8",
+      "displayName": "",
+      "id": "347e8",
+      "name": "Shops_01.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c6d42": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@c6d42",
+      "displayName": "",
+      "id": "c6d42",
+      "name": "Shops.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a6e88": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@a6e88",
+      "displayName": "",
+      "id": "a6e88",
+      "name": "building_09.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "97f48": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@97f48",
+      "displayName": "",
+      "id": "97f48",
+      "name": "Roof_tiles.material",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5f9dd": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@5f9dd",
+      "displayName": "",
+      "id": "5f9dd",
+      "name": "Shops_03.material",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2ab46": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@2ab46",
+      "displayName": "",
+      "id": "2ab46",
+      "name": "Shops_04.material",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad905": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@ad905",
+      "displayName": "",
+      "id": "ad905",
+      "name": "Shops_05.material",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b7a9": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@6b7a9",
+      "displayName": "",
+      "id": "6b7a9",
+      "name": "brick_modern_04.material",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea9b8": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@ea9b8",
+      "displayName": "",
+      "id": "ea9b8",
+      "name": "Shops_06.material",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4e1a1": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@4e1a1",
+      "displayName": "",
+      "id": "4e1a1",
+      "name": "Shops_09.material",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e1226": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@e1226",
+      "displayName": "",
+      "id": "e1226",
+      "name": "Shops_08.material",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fee5f": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@fee5f",
+      "displayName": "",
+      "id": "fee5f",
+      "name": "brick_modern_02.material",
+      "userData": {
+        "gltfIndex": 16
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea2a2": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@ea2a2",
+      "displayName": "",
+      "id": "ea2a2",
+      "name": "Shops_11.material",
+      "userData": {
+        "gltfIndex": 17
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f7ec0": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@f7ec0",
+      "displayName": "",
+      "id": "f7ec0",
+      "name": "building_08.material",
+      "userData": {
+        "gltfIndex": 18
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "92ede": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@92ede",
+      "displayName": "",
+      "id": "92ede",
+      "name": "Shops_10.material",
+      "userData": {
+        "gltfIndex": 19
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c6c58": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@c6c58",
+      "displayName": "",
+      "id": "c6c58",
+      "name": "Shops_12.material",
+      "userData": {
+        "gltfIndex": 20
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "02b56": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@02b56",
+      "displayName": "",
+      "id": "02b56",
+      "name": "Shops_14.material",
+      "userData": {
+        "gltfIndex": 21
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f3a": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@48f3a",
+      "displayName": "",
+      "id": "48f3a",
+      "name": "Shops_13.material",
+      "userData": {
+        "gltfIndex": 22
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "60ee1": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@60ee1",
+      "displayName": "",
+      "id": "60ee1",
+      "name": "Shops_16.material",
+      "userData": {
+        "gltfIndex": 23
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5d7c5": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@5d7c5",
+      "displayName": "",
+      "id": "5d7c5",
+      "name": "building_01.material",
+      "userData": {
+        "gltfIndex": 24
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dc393": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@dc393",
+      "displayName": "",
+      "id": "dc393",
+      "name": "Shops_15.material",
+      "userData": {
+        "gltfIndex": 25
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1fb48": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@1fb48",
+      "displayName": "",
+      "id": "1fb48",
+      "name": "Shops_17.material",
+      "userData": {
+        "gltfIndex": 26
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b939f": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@b939f",
+      "displayName": "",
+      "id": "b939f",
+      "name": "building_10.material",
+      "userData": {
+        "gltfIndex": 27
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9fe44": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@9fe44",
+      "displayName": "",
+      "id": "9fe44",
+      "name": "brick_modern.material",
+      "userData": {
+        "gltfIndex": 28
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a135d": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@a135d",
+      "displayName": "",
+      "id": "a135d",
+      "name": "Shops_18.material",
+      "userData": {
+        "gltfIndex": 29
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c3177": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@c3177",
+      "displayName": "",
+      "id": "c3177",
+      "name": "Shops_07.material",
+      "userData": {
+        "gltfIndex": 30
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d41d9": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@d41d9",
+      "displayName": "",
+      "id": "d41d9",
+      "name": "brick_modern_01.material",
+      "userData": {
+        "gltfIndex": 31
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3a7a": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@f3a7a",
+      "displayName": "",
+      "id": "f3a7a",
+      "name": "building_03.material",
+      "userData": {
+        "gltfIndex": 32
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fa064": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@fa064",
+      "displayName": "",
+      "id": "fa064",
+      "name": "Shops_19.material",
+      "userData": {
+        "gltfIndex": 33
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "65ee4": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@65ee4",
+      "displayName": "",
+      "id": "65ee4",
+      "name": "Shops_21.material",
+      "userData": {
+        "gltfIndex": 34
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8e5d2": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@8e5d2",
+      "displayName": "",
+      "id": "8e5d2",
+      "name": "Shops_20.material",
+      "userData": {
+        "gltfIndex": 35
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8b83f": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@8b83f",
+      "displayName": "",
+      "id": "8b83f",
+      "name": "Shops_22.material",
+      "userData": {
+        "gltfIndex": 36
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3a8a6": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@3a8a6",
+      "displayName": "",
+      "id": "3a8a6",
+      "name": "brick_modern_05.material",
+      "userData": {
+        "gltfIndex": 37
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ff641": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@ff641",
+      "displayName": "",
+      "id": "ff641",
+      "name": "building.material",
+      "userData": {
+        "gltfIndex": 38
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7f701": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@7f701",
+      "displayName": "",
+      "id": "7f701",
+      "name": "Shops_23.material",
+      "userData": {
+        "gltfIndex": 39
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "69ac2": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@69ac2",
+      "displayName": "",
+      "id": "69ac2",
+      "name": "Shops_24.material",
+      "userData": {
+        "gltfIndex": 40
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8119": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@b8119",
+      "displayName": "",
+      "id": "b8119",
+      "name": "Shops_25.material",
+      "userData": {
+        "gltfIndex": 41
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e71a0": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@e71a0",
+      "displayName": "",
+      "id": "e71a0",
+      "name": "BrickSmallPainted.material",
+      "userData": {
+        "gltfIndex": 42
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6bdcc": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@6bdcc",
+      "displayName": "",
+      "id": "6bdcc",
+      "name": "Shops_26.material",
+      "userData": {
+        "gltfIndex": 43
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e3f24": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@e3f24",
+      "displayName": "",
+      "id": "e3f24",
+      "name": "Shops_27.material",
+      "userData": {
+        "gltfIndex": 44
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2aab5": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@2aab5",
+      "displayName": "",
+      "id": "2aab5",
+      "name": "building_11.material",
+      "userData": {
+        "gltfIndex": 45
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e7fe1": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@e7fe1",
+      "displayName": "",
+      "id": "e7fe1",
+      "name": "BrickSmallBrown.material",
+      "userData": {
+        "gltfIndex": 46
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2032f": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@2032f",
+      "displayName": "",
+      "id": "2032f",
+      "name": "Shops_28.material",
+      "userData": {
+        "gltfIndex": 47
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b264c": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@b264c",
+      "displayName": "",
+      "id": "b264c",
+      "name": "building_07.material",
+      "userData": {
+        "gltfIndex": 48
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c875d": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@c875d",
+      "displayName": "",
+      "id": "c875d",
+      "name": "Shops_29.material",
+      "userData": {
+        "gltfIndex": 49
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "36e6f": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@36e6f",
+      "displayName": "",
+      "id": "36e6f",
+      "name": "Shops_31.material",
+      "userData": {
+        "gltfIndex": 50
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9431e": {
+      "importer": "gltf-material",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@9431e",
+      "displayName": "",
+      "id": "9431e",
+      "name": "Shops_30.material",
+      "userData": {
+        "gltfIndex": 51
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d1932": {
+      "importer": "gltf-scene",
+      "uuid": "607dcb54-6538-4d94-82de-62aa568dd9cc@d1932",
+      "displayName": "",
+      "id": "d1932",
+      "name": "scene.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "db://assets/model/buildings/textures/ConcreteBare_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/brick_modern_03_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_01_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_02_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_specularf0.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/building_09_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Roof_tiles_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/building_04_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_03_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_04_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_05_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/brick_modern_04_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/building_06_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_06_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_09_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_08_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/brick_modern_02_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_11_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/building_08_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_10_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_10_specularf0.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_12_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_14_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_13_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_16_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/building_01_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_15_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_17_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/building_10_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/building_10_specularf0.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/brick_modern_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_18_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_07_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/brick_modern_01_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/building_03_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_19_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_21_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_20_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_20_specularf0.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_22_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/brick_modern_05_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/building_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_23_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_24_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_25_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/BrickSmallPainted_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_26_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_27_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/building_11_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/BrickSmallBrown_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_28_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/building_07_baseColor.jpeg"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_29_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_31_baseColor.png"
+      },
+      {
+        "uri": "db://assets/model/buildings/textures/Shops_30_baseColor.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@0b47b",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@c2e2a",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@511cb",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@67107",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@fcb19",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@8739b",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@f2a3e",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@77780",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@90c66",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@39f1e",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@ecb94",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@97793",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@79aa2",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@e39be",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@0b1f5",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@ebcfd",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@15922",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@d37c8",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@4d508",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@c43dc",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@9d156",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@f9362",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@a57c7",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@69bba",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@eb610",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@8da60",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@d0588",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@d141b",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@7bb02",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@12d2b",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@32a80",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@828cf",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@b7387",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@9e1f7",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@d9bb3",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@6e599",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@84afc",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@1d289",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@46e39",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@f5472",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@9b8ae",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@eb3b6",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@79cab",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@84d66",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@cad94",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@90058",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@d35bd",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@47078",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@cbede",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@7e229",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@d2045",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@47a04",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@85453",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@31c1d",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@f35b1",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@45283",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@89143",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@b1901",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@502cd",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@70cae",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@e2d07",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@6fb33",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@0099c",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@8fd7d",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@539c3",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@f2416",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@101ef",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@5c503",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@90f91",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@e429e",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@d169a",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@b90e0"
+      ],
+      "skeletons": [],
+      "textures": [
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@3effa",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@221a5",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@0089c",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@9b633",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@9b782",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@50743",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@99ea5",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@006bd",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@531b0",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@9c3d2",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@f7e17",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@a2905",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@55257",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@809d9",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@b4841",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@3c999",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@10486",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@d4524",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@d932b",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@98962",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@14738",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@0c93e",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@50f7f",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@d0968",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@0dd94",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@bcb27",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@240d8",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@2a87f",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@51278",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@72311",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@96cab",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@a2999",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@067c6",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@b36a3",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@f319c",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@1d105",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@b719f",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@404ea",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@51c5c",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@c8890",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@90288",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@a4688",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@101c7",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@3693d",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@bc876",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@59be8",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@01feb",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@2a682",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@73f47",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@9d0a2",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@78ea3",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@a4654",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@3d208",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@b4377",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@d048c",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@883e1"
+      ],
+      "materials": [
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@39ebb",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@f6232",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@347e8",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@69421",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@c6d42",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@a6e88",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@97f48",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@47929",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@5f9dd",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@2ab46",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@ad905",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@6b7a9",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@70137",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@ea9b8",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@4e1a1",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@e1226",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@fee5f",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@ea2a2",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@f7ec0",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@92ede",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@c6c58",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@02b56",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@48f3a",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@60ee1",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@5d7c5",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@dc393",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@1fb48",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@b939f",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@9fe44",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@a135d",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@c3177",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@d41d9",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@f3a7a",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@fa064",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@65ee4",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@8e5d2",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@8b83f",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@3a8a6",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@ff641",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@7f701",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@69ac2",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@b8119",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@e71a0",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@6bdcc",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@e3f24",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@2aab5",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@e7fe1",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@2032f",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@b264c",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@c875d",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@36e6f",
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@9431e"
+      ],
+      "scenes": [
+        "607dcb54-6538-4d94-82de-62aa568dd9cc@d1932"
+      ]
+    }
+  }
+}

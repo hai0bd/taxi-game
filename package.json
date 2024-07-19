@@ -1,7 +1,9 @@
 {
-  "name": "taxi-game-test",
-  "uuid": "a7a06ca2-c9d8-4483-a955-b688978a1fa5",
   "creator": {
-    "version": "3.8.2"
-  }
+    "version": "3.8.3"
+  },
+  "name": "car-client",
+  "type": "3d",
+  "uuid": "0194ae3d-fea3-43ac-8fca-c1fa1ca1e654",
+  "version": "3.4.2"
 }
